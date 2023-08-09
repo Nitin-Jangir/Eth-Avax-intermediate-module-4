@@ -39,4 +39,3 @@ This repository contains a Solidity smart contract for the Degen Gaming Token (D
 ## Disclaimer
 
 This code is provided as an educational example. Security, gas optimization, and thorough testing are crucial when deploying any smart contract to a real network. Use at your own risk.
-
